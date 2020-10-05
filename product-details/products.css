@@ -1,0 +1,130 @@
+.product_area {
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+.descript-header .descript-tag {
+    background-color: rgb(40, 146, 40) !important;
+    font-size: 13px;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+.header-2 {
+    font-size: 23px;
+}
+
+.descript-header .brand {
+    font-size: 14px;
+}
+
+.btn-cart {
+    background-color: rgb(40, 146, 40) !important;
+    color: white !important;
+}
+
+.btn-cart:hover {
+    background-color: green !important;
+}
+
+.fa-shopping-cart {
+    float: left !important;
+}
+
+#fa-icons {
+    padding: 10px;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa-facebook:hover {
+      background-color: rgb(40, 146, 40) !important;
+  }
+
+  .fa-twitter:hover {
+    background-color: rgb(40, 146, 40) !important;
+}
+
+  .fa-facebook {
+    background: #3B5998;
+    font-size: 10px;
+    width: 30px;
+    color: white !important;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    font-size: 10px;
+    width: 30px;
+    color: white !important;
+  }
+
+  #description {
+      font-size: 30px;
+      color: gray;
+  }
+
+   table {
+    border-collapse: collapse;
+    width: 100%;
+    padding-bottom: 30px;
+  }
+
+  
+   td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    width: 310px;
+  }
+
+  nav .nav-tabs .nav-item {
+      color: rgb(40, 146, 40);
+      font-size: 17px;
+  }
+
+  nav .nav-tabs .nav-item.active {
+      background-color: rgb(40, 146, 40);
+      color: white;
+  }
+
+  nav .nav-tabs .nav-item:hover {
+      background-color: rgb(40, 146, 40);
+      color: white;
+  }
+
+  .features {
+      font-weight: 500;
+  }
+
+  .aside-head {
+      font-size: 20px;
+      font-weight: 500;
+  }
+
+  .aside-icons {
+      font-size: 50px !important;
+      color: rgb(40, 146, 40);
+  }
+
+  .aside-icons:hover {
+      color: rgb(155, 141, 141) !important;
+  }
+
+  #aside-nav li {
+     list-style-type: none;
+     padding-top: 10px;
+     padding-bottom: 10px;
+  }
+
+  #aside-nav li:hover {
+      color: white;
+      background-color: rgb(40, 146, 40);
+  }
+
+  .related-products {
+      font-size: 20px;
+      background-color: rgb(40, 146, 40);
+      padding: 5px;
+  }
